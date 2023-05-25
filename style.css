@@ -6,6 +6,13 @@ h2{
     color: chartreuse;
 }
 
+body{
+  display: fles;
+  justify-content: center;
+  align-items: center;
+  flex-direction:column;
+}
+
 #second_h2{
     color: blueviolet;
 }
@@ -18,24 +25,5 @@ h2{
     color: darkseagreen;
 }
 
-/* -------顶部按钮样式 top header layout -----------*/
-.mySpan {
-  /* 外间距 */
-  margin: 5px 10px;
-  /* 内间距 */
-  padding: 5px 10px;
-  /* 字体颜色 */
-  color: #fff;
-  /* 背景颜色 */
-  background: linear-gradient(to right bottom, #325cd9, #68d7c8);
-  /* 圆角处理 */
-  border-radius: 5px;
-  /* 鼠标手样式 */
-  cursor: pointer;
-}
 
-header {
-  display: flex;
-  justify-content: space-evenly;
-  align-items: center;
-}
+
