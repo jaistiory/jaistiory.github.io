@@ -75,7 +75,7 @@ section.mySection {
 }
 
 .toTop span {
-  position: fixed;
+  position: fixed;  /*固定位置*/
   right: 0;
   top: 100px;
   width: 60px;
